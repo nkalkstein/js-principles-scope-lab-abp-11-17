@@ -5,9 +5,16 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  var bestCustomer = "'not bob'";
+  var bestCustomer = "not bob";
 }
-
+ 
 function overwriteBestCustomer() {
   bestCustomer = "maybe bob";
+}
+
+
+const leastFavoriteCustomer = "larry";
+
+function changeLeastFavoriteCustomer() {
+  leasFavoriteCustomer = "billy";
 }
