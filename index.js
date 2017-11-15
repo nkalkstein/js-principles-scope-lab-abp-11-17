@@ -1,3 +1,3 @@
 var customerName = "bob";
 
-customerName.UppcerCase
+var upperCaseCustomerName = customerName.uppcerCase
